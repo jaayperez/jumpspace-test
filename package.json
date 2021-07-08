@@ -1,7 +1,7 @@
 {
   "name": "jumpspace",
   "version": "1.0.0",
-  "description": "JumpSpace",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
