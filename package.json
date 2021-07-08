@@ -1,0 +1,16 @@
+{
+  "name": "jumpspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon index.js",
+    "start:ci": "node index.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "Justin Perez",
+  "license": "MIT"
+}
